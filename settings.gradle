@@ -1,0 +1,2 @@
+rootProject.name='PrecoJustoMVC'
+include ':app'

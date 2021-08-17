@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">PrecoJustoMVC</string>
+    <string name="hint_nome">Digite o Nome</string>
+    <string name="nome_produto">Nome produto</string>
+    <string name="valor">Valor</string>
+    <string name="hint_valor">Digite o valor</string>
+    <string name="nota1">Nota 1</string>
+    <string name="erro_nome">Nome invalido</string>
+    <string name="erro_valor">Valor invalido</string>
+    <string name="produto">Produto</string>
+    <string name="qtdParcelas">Qtd. de Parc.</string>
+    <string name="hint_qtdParcelas">Qtd. Parc.</string>
+    <string name="calcular">Calcular</string>
+    <string name="limpar_dados">Limpar Dados</string>
+    <string name="media">Media</string>
+    <string name="juros">Juros (%)</string>
+    <string name="hint_juros">0</string>
+    <string name="erro_juros">Juros invalido</string>
+    <string name="erro_qtdParcelas">Qtd. Parc. Invalido</string>
+    <string name="valorInicial">Valor Inicial</string>
+    <string name="valorParcelas">Valor Parcelas</string>
+    <string name="valorTotal">Valor Total</string>
+    <string name="valorJuros">Total de Juros</string>
+</resources>
